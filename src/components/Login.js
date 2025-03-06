@@ -18,7 +18,7 @@ function Login() {
                 </nav>
                 <div className={styles.content}>
                     <div className={styles.login}>
-                        <img src="images/logo.svg" />
+                        <img src="images/logo.svg" alt="" />
                     </div>
                 </div>
             </div>
